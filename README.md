@@ -28,18 +28,19 @@ I bring a unique blend of business logic and UI/UX design thinking to developmen
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
-**Frontend:**  
-`React.js` • `Next.js (App Router)` • `JavaScript (ES6+)` • `TypeScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `GSAP`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
 
-**Backend & Tools:**  
-`Node.js` • `Express.js` • `Firebase` • `Supabase` • `REST APIs` • `SQL` • `Zustand` • `Context API`
-
-**DevOps & Design:**  
-`Git & GitHub` • `CI/CD (GitHub Actions)` • `Jira` • `Figma` • `Adobe Creative Cloud` • `Accessibility (WCAG)`  
-
----
 
 ### 📈 GitHub Stats & Activity
 
