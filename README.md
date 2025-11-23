@@ -1,5 +1,5 @@
 
-Full-Stack Developer & UI/UX Designer** from Cyprus 🇨🇾
+Full-Stack Developer & UI/UX Designer from 🇨🇾
 
 
 I'm a passionate Full-Stack Developer specializing in building modern web applications with React, Next.js, and TypeScript. I combine technical expertise with design thinking to create digital experiences that are both beautiful and performant.
@@ -26,11 +26,16 @@ I'm a passionate Full-Stack Developer specializing in building modern web applic
 
 ## Currently Learning
 
-- Three.js & WebGL for 3D graphics
-- After Effects for motion graphics
-- Blender for 3D modeling
-- Unreal Engine
-- Raspberry Pi & IoT
+## Currently Learning
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/threedotjs.svg" width="24" height="24" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webgl.svg" width="24" height="24" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeaftereffects.svg" width="24" height="24" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" width="24" height="24" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unrealengine.svg" width="24" height="24" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/raspberrypi.svg" width="24" height="24" />
+</p>
 
 ## Languages
 
@@ -38,18 +43,6 @@ I'm a passionate Full-Stack Developer specializing in building modern web applic
 - English (Fluent)
 - Russian (Conversational)
 - German (Basic)
-
-## Featured Projects
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axellstr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axellstr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
 
 ## Connect With Me
 
