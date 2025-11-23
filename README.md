@@ -1,18 +1,8 @@
-# Hi, I'm Alexandros Soteriou 👋
 
-**Full-Stack Developer & UI/UX Designer** from Cyprus 🇨🇾
+Full-Stack Developer & UI/UX Designer** from Cyprus 🇨🇾
 
-> *"Imagination, structured."* — From concept to code, crafting digital experiences that are clean, scalable, and expressive.
-
-## About Me
 
 I'm a passionate Full-Stack Developer specializing in building modern web applications with React, Next.js, and TypeScript. I combine technical expertise with design thinking to create digital experiences that are both beautiful and performant.
-
-- 🎯 Currently working on scalable web applications and digital experiences
-- 🌱 Learning Three.js, WebGL, and exploring 3D graphics
-- 💼 Available for freelance projects and collaborations
-- 📧 Reach me at: [soterioudev@gmail.com](mailto:soterioudev@gmail.com)
-- 🌐 Portfolio: [soteriou.dev](https://soteriou.dev)
 
 ## Tech Stack
 
@@ -50,11 +40,6 @@ I'm a passionate Full-Stack Developer specializing in building modern web applic
 - German (Basic)
 
 ## Featured Projects
-
-- **[Lihua - XRP](https://getlihua.com)** - Cryptocurrency token landing page built with Astro
-- **[Parisa Jewellery](https://parisajewellery.com/)** - Full-stack ecommerce platform
-- **[E-Compvenience](https://www.ecvpresale.com/)** - Digital twin company landing page
-- **[McQueen's Detailing](https://www.mcqueensdetailing.eu/)** - Full e-commerce car garage platform
 
 ## GitHub Stats
 
