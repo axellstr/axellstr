@@ -1,63 +1,64 @@
+# Hi there, I'm Alexandros! 👋
 
-Full-Stack Developer & UI/UX Designer from 🇨🇾
+### Technical Support Engineer & Full-Stack Developer from 🇨🇾
 
+I bridge the gap between application engineering and backend infrastructure. As a Technical Support Specialist and Shift Leader, I specialize in incident management, maintaining 99.9% system uptime, and translating complex technical issues for enterprise clients. 
 
-I'm a passionate Full-Stack Developer specializing in building modern web applications with React, Next.js, and TypeScript. I combine technical expertise with design thinking to create digital experiences that are both beautiful and performant.
+I combine my operational support expertise with a strong foundation in full-stack web architecture to build, debug, and scale digital experiences. 
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
-
-**Technologies I work with:**
-- Frontend: React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
-- Backend: Node.js, Express, API Development
-- Tools: Git, GitHub, Figma, Adobe Creative Suite
-- Databases: MongoDB, Supabase
-- Deployment: Vercel, Cloud Platforms
-
-## Currently Learning
+## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/threedotjs.svg" width="24" height="24" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webgl.svg" width="24" height="24" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeaftereffects.svg" width="24" height="24" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" width="24" height="24" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unrealengine.svg" width="24" height="24" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/raspberrypi.svg" width="24" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
-## Languages
+**Technologies & Tools I work with:**
+- **IT Operations & Monitoring:** Linux (Bash), Grafana, Kibana, PRTG, Jira, M365
+- **Frontend Architecture:** React, Next.js, Astro.js, TypeScript, Tailwind CSS
+- **Backend & Data:** Node.js, Express, REST APIs, SQL, Supabase, Firebase
+- **Design & Workflow:** Git, GitHub Flow, Confluence, Figma
 
-- Greek (Native)
-- English (Fluent)
-- Russian (Conversational)
-- German (Basic)
+## 🚀 Currently Learning (Cloud & DevOps)
 
-## Connect With Me
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/threedotjs.svg" width="30" title="Three.js" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" width="30" title="Blender" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unrealengine.svg" width="30" title="Unreal Engine" />
+</p>
+
+## 🌍 Languages
+
+- **Greek:** Native
+- **English:** Fluent
+- **German:** A2
+- **Russian:** Conversational
+
+## 📬 Connect With Me
 
 <p align="left">
   <a href="https://github.com/axellstr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/alexandros-soteriou-4aa690229/" target="_blank">
+  <a href="https://www.linkedin.com/in/soteriou9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/7Afterlife" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="mailto:soterioudev@gmail.com">
+  <a href="mailto:soteriou.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://soteriou.dev" target="_blank">
+  <a href="https://portfolio-777s.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -69,6 +70,5 @@ I'm a passionate Full-Stack Developer specializing in building modern web applic
 </p>
 
 <p align="center">
-  <i>Open to collaborations and interesting projects!</i>
+  <i>Keeping customers (and SLAs) happy, informed, and impressed. Open to SRE, Support, and Engineering roles!</i>
 </p>
-
