@@ -1,4 +1,4 @@
-# Hi there, I'm Alexandros! 👋
+# Hi there, I'm Alex! 👋
 
 ### Technical Support Engineer & Full-Stack Developer from 🇨🇾
 
