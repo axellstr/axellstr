@@ -26,8 +26,6 @@ I'm a passionate Full-Stack Developer specializing in building modern web applic
 
 ## Currently Learning
 
-## Currently Learning
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/threedotjs.svg" width="24" height="24" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webgl.svg" width="24" height="24" />
