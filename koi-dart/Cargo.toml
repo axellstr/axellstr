@@ -1,0 +1,10 @@
+[package]
+name = "koi-dart"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.88"
+publish = false
+
+[dependencies]
+chrono = { version = "0.4", default-features = false, features = ["clock"] }
+git-koi = "1.0.2"
