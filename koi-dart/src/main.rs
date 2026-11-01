@@ -17,7 +17,7 @@ const OUTPUT_DIRECTORY: &str = "koi";
 fn main() -> Result<(), Box<dyn Error>> {
     let account_snapshot = collect_account_snapshot(&GhCli, LOGIN, Utc::now().date_naive())?;
     let koi_development = derive_koi_development(&account_snapshot)?;
-    let koi_body = KoiBody::White;
+    let koi_body = KoiBody::Asagi;
     let behavior = Behavior::Dart;
     let swim_frames: Vec<KoiFrame> = (0..frame_count(behavior))
         .map(|frame_index| render_swim_frame(&koi_development, koi_body, behavior, frame_index))
